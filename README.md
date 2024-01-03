@@ -6,7 +6,8 @@
 - 📫 How to reach me: ._.notepad is my Discord
 
 
-
+Discord: ._.notepad                                                     
+Discord: kiwiimmadoyoudirty
 
 
 
