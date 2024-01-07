@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on Atomic.cc
 - 💬 Ask me about Lua for FiveM
 - 📫 How to reach me: ._.notepad is my Discord
 
