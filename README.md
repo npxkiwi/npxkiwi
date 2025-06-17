@@ -6,4 +6,4 @@
 * Mani Helper
 ## Github Stats
 ![Notepad's GitHub stats](https://github-readme-stats.vercel.app/api?username=npxkiwi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npxkiwi&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=npxkiwi&theme=radical&size_weight=0.5&count_weight=0.5)
