@@ -1,6 +1,6 @@
 
 ## Contact me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1167489130696015952)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1167489130696015952) ![](https://komarev.com/ghpvc/?username=npxkiwi&style=flat-square)
 <br>
 ## Github Stats
 ![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=npxkiwi&show_icons=true&theme=github_dark)
